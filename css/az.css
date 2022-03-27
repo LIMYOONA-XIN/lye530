@@ -1,0 +1,70 @@
+span{
+	color: pink;
+	font-weight: 53px;
+}
+span{
+	color: black;
+}
+.ot>div{
+	width: 690px;
+	height: 460px;
+	float: left;
+}
+.one{
+	background-color: #FFC0CB;
+	border: 2px solid;	
+	background-image: url(1.jpg);
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	
+}
+.two{
+	background-color: lightpink;
+	border: 2px solid;	
+	background-image: url(2.jpg);
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+}
+.tf>div{
+	width: 690px;
+	height: 1000px;
+	float: left;
+}
+.three{
+	background-color: lightpink;
+	border: 2px solid;	
+	background-image: url(3.jpg);
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	
+	
+}
+.four{
+	background-color: lightpink;
+	border: 2px solid;	
+	background-image: url(4.jpg);
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+}
+.lin{
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-image: url(two.jpg);
+	text-align: center;
+	border: 1px solid;
+	border-top-style: double;
+	border-top-width: 100px;
+	border-top-color: aquamarine;
+	border-bottom-style:double;
+	border-bottom-color: aquamarine;
+	border-bottom-width: 100px;
+	border-left-style: solid;
+	border-left-color: aqua;
+	border-left-width: 100px;
+	border-right-style: solid;
+	border-right-color:aqua;
+	border-right-width: 100px;
+	background-color:pink;
+	height: 300px;
+	width: 300px;
+}
